@@ -1,7 +1,14 @@
 # packages
 
+## Server
+
+- [@aima-beyond-ai/server-oauth](https://github.com/aima-beyond-ai/server-oauth)
+- [@aima-beyond-ai/server-websocket](https://github.com/aima-beyond-ai/server-websocket)
+
 ## Core
 
+- [@aima-beyond-ai/authorization](https://github.com/aima-beyond-ai/authorization)
+- [@aima-beyond-ai/payload](https://github.com/aima-beyond-ai/payload)
 - [@aima-beyond-ai/worker](https://github.com/aima-beyond-ai/worker)
 - [@aima-beyond-ai/queue-sorted](https://github.com/aima-beyond-ai/queue-sorted)
 - [@aima-beyond-ai/garbage-collector](https://github.com/aima-beyond-ai/garbage-collector)
