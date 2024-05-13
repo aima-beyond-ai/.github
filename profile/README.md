@@ -12,6 +12,9 @@
 - [@aima-beyond-ai/worker](https://github.com/aima-beyond-ai/worker)
 - [@aima-beyond-ai/queue-sorted](https://github.com/aima-beyond-ai/queue-sorted)
 - [@aima-beyond-ai/garbage-collector](https://github.com/aima-beyond-ai/garbage-collector)
+- [@aima-beyond-ai/roles](https://github.com/aima-beyond-ai/roles)
+- [@aima-beyond-ai/scopes](https://github.com/aima-beyond-ai/scopes)
+- [@aima-beyond-ai/payload](https://github.com/aima-beyond-ai/payload)
 
 ## AWS
 
