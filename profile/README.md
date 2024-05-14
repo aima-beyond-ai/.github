@@ -7,7 +7,6 @@
 
 ## Core
 
-- [@aima-beyond-ai/authorization](https://github.com/aima-beyond-ai/authorization)
 - [@aima-beyond-ai/payload](https://github.com/aima-beyond-ai/payload)
 - [@aima-beyond-ai/worker](https://github.com/aima-beyond-ai/worker)
 - [@aima-beyond-ai/queue-sorted](https://github.com/aima-beyond-ai/queue-sorted)
@@ -27,6 +26,7 @@
 
 ## Helpers
 
+- [@aima-beyond-ai/authorization](https://github.com/aima-beyond-ai/authorization)
 - [@aima-beyond-ai/roles](https://github.com/aima-beyond-ai/roles)
 - [@aima-beyond-ai/scopes](https://github.com/aima-beyond-ai/scopes)
 - [@aima-beyond-ai/endpoint](https://github.com/aima-beyond-ai/endpoint)
