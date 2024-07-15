@@ -8,7 +8,6 @@
 
 ## Core
 
-- [@aima-beyond-ai/payload](https://github.com/aima-beyond-ai/payload)
 - [@aima-beyond-ai/worker](https://github.com/aima-beyond-ai/worker)
 - [@aima-beyond-ai/queue-sorted](https://github.com/aima-beyond-ai/queue-sorted)
 - [@aima-beyond-ai/garbage-collector](https://github.com/aima-beyond-ai/garbage-collector)
