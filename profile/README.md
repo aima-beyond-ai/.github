@@ -2,6 +2,7 @@
 
 ## Server
 
+- [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)
 - [@aima-beyond-ai/server-oauth](https://github.com/aima-beyond-ai/server-oauth)
 - [@aima-beyond-ai/server-websocket](https://github.com/aima-beyond-ai/server-websocket)
 
@@ -26,13 +27,16 @@
 
 ## Helpers
 
+- [@aima-beyond-ai/env](https://github.com/aima-beyond-ai/env)
 - [@aima-beyond-ai/authorization](https://github.com/aima-beyond-ai/authorization)
+- [@aima-beyond-ai/token](https://github.com/aima-beyond-ai/token)
 - [@aima-beyond-ai/roles](https://github.com/aima-beyond-ai/roles)
 - [@aima-beyond-ai/scopes](https://github.com/aima-beyond-ai/scopes)
 - [@aima-beyond-ai/endpoint](https://github.com/aima-beyond-ai/endpoint)
 
 ## Tools
 
+- [@aima-beyond-ai/encrypt](https://github.com/aima-beyond-ai/encrypt)
 - [@aima-beyond-ai/ffmpeg](https://github.com/aima-beyond-ai/ffmpeg)
 - [@aima-beyond-ai/duration](https://github.com/aima-beyond-ai/duration)
 - [@aima-beyond-ai/logs](https://github.com/aima-beyond-ai/logs)
