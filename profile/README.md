@@ -3,6 +3,7 @@
 ## Server
 
 - [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)
+- [@aima-beyond-ai/server-gooogle](https://github.com/aima-beyond-ai/server-gooogle)
 - [@aima-beyond-ai/server-oauth](https://github.com/aima-beyond-ai/server-oauth)
 - [@aima-beyond-ai/server-websocket](https://github.com/aima-beyond-ai/server-websocket)
 
