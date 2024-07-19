@@ -28,7 +28,9 @@
 ## Helpers
 
 - [@aima-beyond-ai/env](https://github.com/aima-beyond-ai/env)
+- [@aima-beyond-ai/google-connect](https://github.com/aima-beyond-ai/google-connect)
 - [@aima-beyond-ai/authorization](https://github.com/aima-beyond-ai/authorization)
+- [@aima-beyond-ai/credentials](https://github.com/aima-beyond-ai/credentials)
 - [@aima-beyond-ai/token](https://github.com/aima-beyond-ai/token)
 - [@aima-beyond-ai/roles](https://github.com/aima-beyond-ai/roles)
 - [@aima-beyond-ai/scopes](https://github.com/aima-beyond-ai/scopes)
