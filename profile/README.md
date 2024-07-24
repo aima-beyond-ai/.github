@@ -15,6 +15,7 @@
 - [@aima-beyond-ai/payload](https://github.com/aima-beyond-ai/payload)
 - [@aima-beyond-ai/credentials](https://github.com/aima-beyond-ai/credentials)
 - [@aima-beyond-ai/token](https://github.com/aima-beyond-ai/token)
+- [@aima-beyond-ai/user](https://github.com/aima-beyond-ai/user)
 
 ## AWS
 
