@@ -7,6 +7,10 @@
 - [@aima-beyond-ai/server-oauth](https://github.com/aima-beyond-ai/server-oauth)
 - [@aima-beyond-ai/server-websocket](https://github.com/aima-beyond-ai/server-websocket)
 
+## SSL
+
+- [@aima-beyond-ai/certificates](https://github.com/aima-beyond-ai/certificates)
+
 ## Core
 
 - [@aima-beyond-ai/worker](https://github.com/aima-beyond-ai/worker)
