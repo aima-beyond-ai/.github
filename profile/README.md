@@ -40,6 +40,7 @@
 - [@aima-beyond-ai/roles](https://github.com/aima-beyond-ai/roles)
 - [@aima-beyond-ai/scopes](https://github.com/aima-beyond-ai/scopes)
 - [@aima-beyond-ai/endpoint](https://github.com/aima-beyond-ai/endpoint)
+- [@aima-beyond-ai/webcam](https://github.com/aima-beyond-ai/webcam)
 
 ## Tools
 
