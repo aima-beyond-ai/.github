@@ -27,6 +27,7 @@
 - [@aima-beyond-ai/aws-polly](https://github.com/aima-beyond-ai/aws-polly)
 - [@aima-beyond-ai/aws-rds](https://github.com/aima-beyond-ai/aws-rds)
 - [@aima-beyond-ai/aws-ses](https://github.com/aima-beyond-ai/aws-ses)
+- [@aima-beyond-ai/aws-s3](https://github.com/aima-beyond-ai/aws-s3)
 
 ## Ai
 
