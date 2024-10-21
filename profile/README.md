@@ -1,6 +1,13 @@
-# packages
+# Windows App
 
-## Server
+- [@aima-beyond-ai/app-server](https://github.com/aima-beyond-ai/app-server)
+- [@aima-beyond-ai/app-brain](https://github.com/aima-beyond-ai/app-brain)
+- [@aima-beyond-ai/app-ear](https://github.com/aima-beyond-ai/app-ear)
+- [@aima-beyond-ai/app-cvemo](https://github.com/aima-beyond-ai/app-cvemo)
+
+---
+
+# EC2 Servers
 
 - [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)
 - [@aima-beyond-ai/server-google](https://github.com/aima-beyond-ai/server-google)
@@ -10,6 +17,10 @@
 ## SSL
 
 - [@aima-beyond-ai/certificates](https://github.com/aima-beyond-ai/certificates)
+
+---
+
+# NodeJS packages
 
 ## Core
 
@@ -58,12 +69,3 @@
 
 - [@aima-beyond-ai/package](https://github.com/aima-beyond-ai/package)
 - [@aima-beyond-ai/test](https://github.com/aima-beyond-ai/test)
-
----
-
-## Windows App
-
-- [@aima-beyond-ai/app-server](https://github.com/aima-beyond-ai/app-server)
-- [@aima-beyond-ai/app-brain](https://github.com/aima-beyond-ai/app-brain)
-- [@aima-beyond-ai/app-ear](https://github.com/aima-beyond-ai/app-ear)
-- [@aima-beyond-ai/app-cvemo](https://github.com/aima-beyond-ai/app-cvemo)
