@@ -3,6 +3,7 @@
 - [@aima-beyond-ai/app-server](https://github.com/aima-beyond-ai/app-server)
 - [@aima-beyond-ai/app-brain](https://github.com/aima-beyond-ai/app-brain)
 - [@aima-beyond-ai/app-ear](https://github.com/aima-beyond-ai/app-ear)
+- [@aima-beyond-ai/app-view](https://github.com/aima-beyond-ai/app-view)
 - [@aima-beyond-ai/app-cvemo](https://github.com/aima-beyond-ai/app-cvemo)
 
 ---
