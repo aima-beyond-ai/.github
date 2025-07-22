@@ -1,18 +1,18 @@
-![documentation](profile/documentation.webp)
+![documentation](documentation.webp)
 
 # Windows APP V.3
 
-- [AimaCAM](https://github.com/aima-beyond-ai/nssm-aima-cam)
-- [AimaCRON](https://github.com/aima-beyond-ai/nssm-aima-cron)
-- [AimaLLM](https://github.com/aima-beyond-ai/nssm-aima-llm)
-- [AimaPRO](https://github.com/aima-beyond-ai/nssm-aima-pro)
-- [AimaSTT](https://github.com/aima-beyond-ai/nssm-aima-stt)
-- [AimaSYNC](https://github.com/aima-beyond-ai/nssm-aima-sync)
-- [AimaTTS](https://github.com/aima-beyond-ai/nssm-aima-tts)
-- [AimaVAD](https://github.com/aima-beyond-ai/nssm-aima-vad)
-- [AimaVIEW](https://github.com/aima-beyond-ai/nssm-aima-view)
-- [AimaWS](https://github.com/aima-beyond-ai/nssm-aima-ws)
-- [AimaWSS](https://github.com/aima-beyond-ai/nssm-aima-wss)
+- [AimaCAM](https://github.com/aima-beyond-ai/nssm-aima-cam) AiMA Webcam capture
+- [AimaCRON](https://github.com/aima-beyond-ai/nssm-aima-cron) AiMA Cron tasks
+- [AimaLLM](https://github.com/aima-beyond-ai/nssm-aima-llm) AiMA Brain llm model
+- [AimaPRO](https://github.com/aima-beyond-ai/nssm-aima-pro) AiMA Proactive mode
+- [AimaSTT](https://github.com/aima-beyond-ai/nssm-aima-stt) AiMA Speech to text
+- [AimaSYNC](https://github.com/aima-beyond-ai/nssm-aima-sync) AiMA Local and remote redis sync
+- [AimaTTS](https://github.com/aima-beyond-ai/nssm-aima-tts) AiMA Text to speech
+- [AimaVAD](https://github.com/aima-beyond-ai/nssm-aima-vad) AiMA Voice activity detection
+- [AimaVIEW](https://github.com/aima-beyond-ai/nssm-aima-view) AiMA Brain llm view
+- [AimaWS](https://github.com/aima-beyond-ai/nssm-aima-ws) AiMA Websocket local for Unreal
+- [AimaWSS](https://github.com/aima-beyond-ai/nssm-aima-wss) AiMA Websocket server backend
 
 # Windows APP V.2
 
