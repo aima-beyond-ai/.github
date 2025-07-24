@@ -94,3 +94,11 @@
 - [@aima-beyond-ai/app-ear](https://github.com/aima-beyond-ai/app-ear)
 - [@aima-beyond-ai/app-view](https://github.com/aima-beyond-ai/app-view)
 - [@aima-beyond-ai/app-cvemo](https://github.com/aima-beyond-ai/app-cvemo)
+- 
+# MAC M4
+
+- [Version Apple M4](https://github.com/aima-beyond-ai/aima-m4)
+- 
+# MWC24
+
+- [Versión demo MWC24](https://github.com/aima-beyond-ai/MWC24)
