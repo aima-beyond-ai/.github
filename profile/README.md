@@ -98,7 +98,7 @@
 # MAC M4
 
 - [Version Apple M4](https://github.com/aima-beyond-ai/aima-m4)
-- 
+
 # MWC24
 
 - [Versión demo MWC24](https://github.com/aima-beyond-ai/MWC24)
