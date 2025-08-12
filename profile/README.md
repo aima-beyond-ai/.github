@@ -21,14 +21,14 @@
 - [@aima-beyond-ai/server-oauth](https://github.com/aima-beyond-ai/server-oauth)
 - [@aima-beyond-ai/server-websocket](https://github.com/aima-beyond-ai/server-websocket)
 
-## SSL
-
-- [@aima-beyond-ai/certificates](https://github.com/aima-beyond-ai/certificates)
-
-## EC2 Services
+# EC2 Services
 
 - [@aima-beyond-ai/service-sentiment-analysis](https://github.com/aima-beyond-ai/service-sentiment-analysis)
 - [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
+
+## SSL
+
+- [@aima-beyond-ai/certificates](https://github.com/aima-beyond-ai/certificates)
 
 ---
 
