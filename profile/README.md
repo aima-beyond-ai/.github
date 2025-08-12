@@ -25,6 +25,11 @@
 
 - [@aima-beyond-ai/certificates](https://github.com/aima-beyond-ai/certificates)
 
+## EC2 Services
+
+- [@aima-beyond-ai/service-sentiment-analysis](hhttps://github.com/aima-beyond-ai/service-sentiment-analysis)
+- [@aima-beyond-ai/service-user-facts](hhttps://github.com/aima-beyond-ai/service-user-facts)
+
 ---
 
 # NodeJS packages
@@ -94,7 +99,8 @@
 - [@aima-beyond-ai/app-ear](https://github.com/aima-beyond-ai/app-ear)
 - [@aima-beyond-ai/app-view](https://github.com/aima-beyond-ai/app-view)
 - [@aima-beyond-ai/app-cvemo](https://github.com/aima-beyond-ai/app-cvemo)
-- 
+-
+
 # MAC M4
 
 - [Version Apple M4](https://github.com/aima-beyond-ai/aima-m4)
