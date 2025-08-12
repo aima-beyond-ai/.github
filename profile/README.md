@@ -27,8 +27,8 @@
 
 ## EC2 Services
 
-- [@aima-beyond-ai/service-sentiment-analysis](hhttps://github.com/aima-beyond-ai/service-sentiment-analysis)
-- [@aima-beyond-ai/service-user-facts](hhttps://github.com/aima-beyond-ai/service-user-facts)
+- [@aima-beyond-ai/service-sentiment-analysis](https://github.com/aima-beyond-ai/service-sentiment-analysis)
+- [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
 
 ---
 
