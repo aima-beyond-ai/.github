@@ -25,6 +25,7 @@
 
 - [@aima-beyond-ai/service-sentiment-analysis](https://github.com/aima-beyond-ai/service-sentiment-analysis)
 - [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
+- [@aima-beyond-ai/service-user-summaries](https://github.com/aima-beyond-ai/service-user-summaries)
 
 ## SSL
 
@@ -43,6 +44,7 @@
 - [@aima-beyond-ai/credentials](https://github.com/aima-beyond-ai/credentials)
 - [@aima-beyond-ai/token](https://github.com/aima-beyond-ai/token)
 - [@aima-beyond-ai/user](https://github.com/aima-beyond-ai/user)
+- [@aima-beyond-ai/brain](https://github.com/aima-beyond-ai/brain)
 
 ## AWS
 
@@ -55,6 +57,8 @@
 ## Ai
 
 - [@aima-beyond-ai/openai](https://github.com/aima-beyond-ai/openai)
+- [@aima-beyond-ai/system-prompt](https://github.com/aima-beyond-ai/system-prompt)
+- [@aima-beyond-ai/user-prompt](https://github.com/aima-beyond-ai/user-prompt)
 
 ## Helpers
 
