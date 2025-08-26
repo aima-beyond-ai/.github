@@ -89,6 +89,13 @@
 
 ---
 
+# I+D
+
+- [@aima-beyond-ai/service-hrm](https://github.com/aima-beyond-ai/service-hrm)
+- [@aima-beyond-ai/service-webcam](https://github.com/aima-beyond-ai/service-webcam)
+
+---
+
 ![documentation](documentation.webp)
 
 ---
