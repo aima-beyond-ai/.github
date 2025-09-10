@@ -23,7 +23,7 @@
 
 # EC2 Services
 
-- [@aima-beyond-ai/service-conversations](https://github.com/aima-beyond-ai/service-conversations)
+- [@aima-beyond-ai/service-user-conversations](https://github.com/aima-beyond-ai/service-user-conversations)
 - [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
 - [@aima-beyond-ai/service-user-summaries](https://github.com/aima-beyond-ai/service-user-summaries)
 - [@aima-beyond-ai/service-user-sentiment](https://github.com/aima-beyond-ai/service-user-sentiment)
