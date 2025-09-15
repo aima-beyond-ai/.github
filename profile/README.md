@@ -107,8 +107,6 @@
 # LLM
 
 - [@aima-beyond-ai/llm-iphone-image-to-text](https://github.com/aima-beyond-ai/llm-iphone-image-to-text)
-
-
 - [@aima-beyond-ai/llm-android-image-to-text](https://github.com/aima-beyond-ai/llm-android-image-to-text)
 
 ---
