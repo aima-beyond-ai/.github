@@ -102,6 +102,7 @@
 - [@aima-beyond-ai/pr-iphone-google-maps](https://github.com/aima-beyond-ai/pr-google-maps)
 - [@aima-beyond-ai/pr-voice-biometrics](https://github.com/aima-beyond-ai/pr-voice-biometrics)
 - [@aima-beyond-ai/pr-audio-streaming](https://github.com/aima-beyond-ai/pr-audio-streaming)
+- [@aima-beyond-ai/pr-digital-human](https://github.com/aima-beyond-ai/pr-digital-human)
 
 ---
 
