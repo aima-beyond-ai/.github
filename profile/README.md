@@ -87,6 +87,7 @@
 
 - [@aima-beyond-ai/package](https://github.com/aima-beyond-ai/package)
 - [@aima-beyond-ai/test](https://github.com/aima-beyond-ai/test)
+- [@aima-beyond-ai/devops](https://github.com/aima-beyond-ai/devops)
 
 ---
 
