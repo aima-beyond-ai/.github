@@ -98,6 +98,13 @@
 
 ---
 
+# Tolkien
+
+- [@aima-beyond-ai/tolkien-frontend](https://github.com/aima-beyond-ai/tolkien-frontend)
+- [@aima-beyond-ai/tolkien-backend](https://github.com/aima-beyond-ai/tolkien-backend)
+
+---
+
 # Prototypes
 
 - [@aima-beyond-ai/pr-iphone-google-maps](https://github.com/aima-beyond-ai/pr-google-maps)
