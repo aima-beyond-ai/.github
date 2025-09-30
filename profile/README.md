@@ -123,6 +123,14 @@
 
 ---
 
+# APPS
+
+- [@aima-beyond-ai/iphone-app](https://github.com/aima-beyond-ai/iphone-app)
+- [@aima-beyond-ai/android-app](https://github.com/aima-beyond-ai/android-app)
+- [@aima-beyond-ai/box-app](https://github.com/aima-beyond-ai/box-app)
+
+---
+
 ![documentation](documentation.webp)
 
 ---
