@@ -125,8 +125,10 @@
 
 # APPS
 
-- [@aima-beyond-ai/app-iphone](https://github.com/aima-beyond-ai/app-iphone)
-- [@aima-beyond-ai/app-android](https://github.com/aima-beyond-ai/app-android)
+- [@aima-beyond-ai/app-iphone-aima](https://github.com/aima-beyond-ai/app-iphone-aima)
+- [@aima-beyond-ai/app-android-aima](https://github.com/aima-beyond-ai/app-android-aima)
+- [@aima-beyond-ai/app-iphone-diina](https://github.com/aima-beyond-ai/app-iphone-diina)
+- [@aima-beyond-ai/app-android-diina](https://github.com/aima-beyond-ai/app-android-diina)
 - [@aima-beyond-ai/app-box](https://github.com/aima-beyond-ai/app-box)
 
 ---
