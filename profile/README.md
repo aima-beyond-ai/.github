@@ -121,6 +121,7 @@
 - [@aima-beyond-ai/pr-barge-in](https://github.com/aima-beyond-ai/pr-barge-in)
 - [@aima-beyond-ai/pr-user-facts](https://github.com/aima-beyond-ai/pr-user-facts)
 - [@aima-beyond-ai/pr-docker-mariadb](https://github.com/aima-beyond-ai/pr-docker-mariadb)
+- [@aima-beyond-ai/pr-aima-vllm](https://github.com/aima-beyond-ai/pr-aima-vllm)
 
 ---
 
