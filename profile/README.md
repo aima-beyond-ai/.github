@@ -31,7 +31,7 @@
 
 ---
 
-# Windows APP V.3
+# Windows App V.3
 
 - [AimaCAM](https://github.com/aima-beyond-ai/nssm-aima-cam) AiMA Webcam capture
 - [AimaCRON](https://github.com/aima-beyond-ai/nssm-aima-cron) AiMA Cron tasks
@@ -113,6 +113,8 @@
 
 - [@aima-beyond-ai/service-hrm](https://github.com/aima-beyond-ai/service-hrm)
 - [@aima-beyond-ai/service-webcam](https://github.com/aima-beyond-ai/service-webcam)
+- [@aima-beyond-ai/llm-iphone-image-to-text](https://github.com/aima-beyond-ai/llm-iphone-image-to-text)
+- [@aima-beyond-ai/llm-android-image-to-text](https://github.com/aima-beyond-ai/llm-android-image-to-text)
 
 ---
 
@@ -133,13 +135,6 @@
 - [@aima-beyond-ai/pr-user-facts](https://github.com/aima-beyond-ai/pr-user-facts)
 - [@aima-beyond-ai/pr-docker-mariadb](https://github.com/aima-beyond-ai/pr-docker-mariadb)
 - [@aima-beyond-ai/pr-aima-vllm](https://github.com/aima-beyond-ai/pr-aima-vllm)
-
----
-
-# LLM
-
-- [@aima-beyond-ai/llm-iphone-image-to-text](https://github.com/aima-beyond-ai/llm-iphone-image-to-text)
-- [@aima-beyond-ai/llm-android-image-to-text](https://github.com/aima-beyond-ai/llm-android-image-to-text)
 
 ---
 
