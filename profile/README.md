@@ -1,3 +1,36 @@
+# EC2 Servers
+
+- [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)
+- [@aima-beyond-ai/server-google](https://github.com/aima-beyond-ai/server-google)
+- [@aima-beyond-ai/server-oauth](https://github.com/aima-beyond-ai/server-oauth)
+- [@aima-beyond-ai/server-websocket](https://github.com/aima-beyond-ai/server-websocket)
+
+## SSL
+
+- [@aima-beyond-ai/certificates](https://github.com/aima-beyond-ai/certificates)
+
+---
+
+# EC2 Services
+
+- [@aima-beyond-ai/service-user-conversations](https://github.com/aima-beyond-ai/service-user-conversations)
+- [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
+- [@aima-beyond-ai/service-user-summaries](https://github.com/aima-beyond-ai/service-user-summaries)
+- [@aima-beyond-ai/service-user-sentiment](https://github.com/aima-beyond-ai/service-user-sentiment)
+- [@aima-beyond-ai/service-sentiment-analysis](https://github.com/aima-beyond-ai/service-sentiment-analysis)
+
+---
+
+# UNREAL Apps
+
+- [@aima-beyond-ai/app-iphone-aima](https://github.com/aima-beyond-ai/app-iphone-aima)
+- [@aima-beyond-ai/app-android-aima](https://github.com/aima-beyond-ai/app-android-aima)
+- [@aima-beyond-ai/app-iphone-diina](https://github.com/aima-beyond-ai/app-iphone-diina)
+- [@aima-beyond-ai/app-android-diina](https://github.com/aima-beyond-ai/app-android-diina)
+- [@aima-beyond-ai/app-box](https://github.com/aima-beyond-ai/app-box)
+
+---
+
 # Windows APP V.3
 
 - [AimaCAM](https://github.com/aima-beyond-ai/nssm-aima-cam) AiMA Webcam capture
@@ -11,36 +44,6 @@
 - [AimaVIEW](https://github.com/aima-beyond-ai/nssm-aima-view) AiMA Brain llm view
 - [AimaWS](https://github.com/aima-beyond-ai/nssm-aima-ws) AiMA Websocket local for Unreal
 - [AimaWSS](https://github.com/aima-beyond-ai/nssm-aima-wss) AiMA Websocket server backend
-
----
-
-# EC2 Servers
-
-- [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)
-- [@aima-beyond-ai/server-google](https://github.com/aima-beyond-ai/server-google)
-- [@aima-beyond-ai/server-oauth](https://github.com/aima-beyond-ai/server-oauth)
-- [@aima-beyond-ai/server-websocket](https://github.com/aima-beyond-ai/server-websocket)
-
-# EC2 Services
-
-- [@aima-beyond-ai/service-user-conversations](https://github.com/aima-beyond-ai/service-user-conversations)
-- [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
-- [@aima-beyond-ai/service-user-summaries](https://github.com/aima-beyond-ai/service-user-summaries)
-- [@aima-beyond-ai/service-user-sentiment](https://github.com/aima-beyond-ai/service-user-sentiment)
-- [@aima-beyond-ai/service-sentiment-analysis](https://github.com/aima-beyond-ai/service-sentiment-analysis)
-
-## SSL
-
-- [@aima-beyond-ai/certificates](https://github.com/aima-beyond-ai/certificates)
-
----
-
-# Templates
-
-- [@aima-beyond-ai/devops](https://github.com/aima-beyond-ai/devops)
-- [@aima-beyond-ai/devops-db](https://github.com/aima-beyond-ai/devops-db)
-- [@aima-beyond-ai/service](https://github.com/aima-beyond-ai/service)
-- [@aima-beyond-ai/service-db](https://github.com/aima-beyond-ai/service-db)
 
 ---
 
@@ -140,13 +143,12 @@
 
 ---
 
-# APPS
+# Templates
 
-- [@aima-beyond-ai/app-iphone-aima](https://github.com/aima-beyond-ai/app-iphone-aima)
-- [@aima-beyond-ai/app-android-aima](https://github.com/aima-beyond-ai/app-android-aima)
-- [@aima-beyond-ai/app-iphone-diina](https://github.com/aima-beyond-ai/app-iphone-diina)
-- [@aima-beyond-ai/app-android-diina](https://github.com/aima-beyond-ai/app-android-diina)
-- [@aima-beyond-ai/app-box](https://github.com/aima-beyond-ai/app-box)
+- [@aima-beyond-ai/devops](https://github.com/aima-beyond-ai/devops)
+- [@aima-beyond-ai/devops-db](https://github.com/aima-beyond-ai/devops-db)
+- [@aima-beyond-ai/service](https://github.com/aima-beyond-ai/service)
+- [@aima-beyond-ai/service-db](https://github.com/aima-beyond-ai/service-db)
 
 ---
 
