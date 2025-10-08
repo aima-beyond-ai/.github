@@ -35,6 +35,15 @@
 
 ---
 
+# Templates
+
+- [@aima-beyond-ai/devops](https://github.com/aima-beyond-ai/devops)
+- [@aima-beyond-ai/devops-db](https://github.com/aima-beyond-ai/devops-db)
+- [@aima-beyond-ai/service](https://github.com/aima-beyond-ai/service)
+- [@aima-beyond-ai/service-db](https://github.com/aima-beyond-ai/service-db)
+
+---
+
 # NodeJS packages
 
 ## Core
@@ -87,7 +96,6 @@
 
 - [@aima-beyond-ai/package](https://github.com/aima-beyond-ai/package)
 - [@aima-beyond-ai/test](https://github.com/aima-beyond-ai/test)
-- [@aima-beyond-ai/devops](https://github.com/aima-beyond-ai/devops)
 
 ---
 
