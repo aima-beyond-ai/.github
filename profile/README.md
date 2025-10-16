@@ -17,6 +17,7 @@
 - [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
 - [@aima-beyond-ai/service-user-summaries](https://github.com/aima-beyond-ai/service-user-summaries)
 - [@aima-beyond-ai/service-user-sentiment](https://github.com/aima-beyond-ai/service-user-sentiment)
+- [@aima-beyond-ai/service-user-multimedia](https://github.com/aima-beyond-ai/service-user-multimedia)
 - [@aima-beyond-ai/service-sentiment-analysis](https://github.com/aima-beyond-ai/service-sentiment-analysis)
 
 ---
@@ -128,6 +129,7 @@
 - [@aima-beyond-ai/pr-user-facts](https://github.com/aima-beyond-ai/pr-user-facts)
 - [@aima-beyond-ai/pr-docker-mariadb](https://github.com/aima-beyond-ai/pr-docker-mariadb)
 - [@aima-beyond-ai/pr-aima-vllm](https://github.com/aima-beyond-ai/pr-aima-vllm)
+- [@aima-beyond-ai/pr-aima-qdrant](https://github.com/aima-beyond-ai/pr-aima-qdrant)
 
 ---
 
