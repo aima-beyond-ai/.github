@@ -1,4 +1,42 @@
-# Windows APP V.3
+# EC2 Servers
+
+- [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)
+- [@aima-beyond-ai/server-google](https://github.com/aima-beyond-ai/server-google)
+- [@aima-beyond-ai/server-oauth](https://github.com/aima-beyond-ai/server-oauth)
+- [@aima-beyond-ai/server-websocket](https://github.com/aima-beyond-ai/server-websocket)
+
+## SSL
+
+- [@aima-beyond-ai/certificates](https://github.com/aima-beyond-ai/certificates)
+
+---
+
+# EC2 Services
+
+- [@aima-beyond-ai/service-user-conversations](https://github.com/aima-beyond-ai/service-user-conversations)
+- [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
+- [@aima-beyond-ai/service-user-summaries](https://github.com/aima-beyond-ai/service-user-summaries)
+- [@aima-beyond-ai/service-user-sentiment](https://github.com/aima-beyond-ai/service-user-sentiment)
+- [@aima-beyond-ai/service-user-multimedia](https://github.com/aima-beyond-ai/service-user-multimedia)
+- [@aima-beyond-ai/service-sentiment-analysis](https://github.com/aima-beyond-ai/service-sentiment-analysis)
+
+---
+
+# UNREAL Apps
+
+- [@aima-beyond-ai/unreal-iphone-aima](https://github.com/aima-beyond-ai/unreal-iphone-aima)
+- [@aima-beyond-ai/unreal-android-aima](https://github.com/aima-beyond-ai/unreal-android-aima)
+- [@aima-beyond-ai/unreal-iphone-diina](https://github.com/aima-beyond-ai/unreal-iphone-diina)
+- [@aima-beyond-ai/unreal-android-diina](https://github.com/aima-beyond-ai/unreal-android-diina)
+- [@aima-beyond-ai/unreal-iphone-residencia](https://github.com/aima-beyond-ai/unreal-iphone-residencia)
+- [@aima-beyond-ai/unreal-android-residencia](https://github.com/aima-beyond-ai/unreal-android-residencia)
+- [@aima-beyond-ai/unreal-box](https://github.com/aima-beyond-ai/unreal-box)
+- [@aima-beyond-ai/unreal-iphone-lib](https://github.com/aima-beyond-ai/unreal-iphone-lib)
+- [@aima-beyond-ai/unreal-android-lib](https://github.com/aima-beyond-ai/unreal-android-lib)
+
+---
+
+# Windows App V.3
 
 - [AimaCAM](https://github.com/aima-beyond-ai/nssm-aima-cam) AiMA Webcam capture
 - [AimaCRON](https://github.com/aima-beyond-ai/nssm-aima-cron) AiMA Cron tasks
@@ -11,27 +49,6 @@
 - [AimaVIEW](https://github.com/aima-beyond-ai/nssm-aima-view) AiMA Brain llm view
 - [AimaWS](https://github.com/aima-beyond-ai/nssm-aima-ws) AiMA Websocket local for Unreal
 - [AimaWSS](https://github.com/aima-beyond-ai/nssm-aima-wss) AiMA Websocket server backend
-
----
-
-# EC2 Servers
-
-- [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)
-- [@aima-beyond-ai/server-google](https://github.com/aima-beyond-ai/server-google)
-- [@aima-beyond-ai/server-oauth](https://github.com/aima-beyond-ai/server-oauth)
-- [@aima-beyond-ai/server-websocket](https://github.com/aima-beyond-ai/server-websocket)
-
-# EC2 Services
-
-- [@aima-beyond-ai/service-user-conversations](https://github.com/aima-beyond-ai/service-user-conversations)
-- [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
-- [@aima-beyond-ai/service-user-summaries](https://github.com/aima-beyond-ai/service-user-summaries)
-- [@aima-beyond-ai/service-user-sentiment](https://github.com/aima-beyond-ai/service-user-sentiment)
-- [@aima-beyond-ai/service-sentiment-analysis](https://github.com/aima-beyond-ai/service-sentiment-analysis)
-
-## SSL
-
-- [@aima-beyond-ai/certificates](https://github.com/aima-beyond-ai/certificates)
 
 ---
 
@@ -87,14 +104,6 @@
 
 - [@aima-beyond-ai/package](https://github.com/aima-beyond-ai/package)
 - [@aima-beyond-ai/test](https://github.com/aima-beyond-ai/test)
-- [@aima-beyond-ai/devops](https://github.com/aima-beyond-ai/devops)
-
----
-
-# I+D
-
-- [@aima-beyond-ai/service-hrm](https://github.com/aima-beyond-ai/service-hrm)
-- [@aima-beyond-ai/service-webcam](https://github.com/aima-beyond-ai/service-webcam)
 
 ---
 
@@ -102,6 +111,15 @@
 
 - [@aima-beyond-ai/tolkien-frontend](https://github.com/aima-beyond-ai/tolkien-frontend)
 - [@aima-beyond-ai/tolkien-backend](https://github.com/aima-beyond-ai/tolkien-backend)
+
+---
+
+# I+D
+
+- [@aima-beyond-ai/service-hrm](https://github.com/aima-beyond-ai/service-hrm)
+- [@aima-beyond-ai/service-webcam](https://github.com/aima-beyond-ai/service-webcam)
+- [@aima-beyond-ai/llm-iphone-image-to-text](https://github.com/aima-beyond-ai/llm-iphone-image-to-text)
+- [@aima-beyond-ai/llm-android-image-to-text](https://github.com/aima-beyond-ai/llm-android-image-to-text)
 
 ---
 
@@ -113,27 +131,25 @@
 - [@aima-beyond-ai/pr-digital-human](https://github.com/aima-beyond-ai/pr-digital-human)
 - [@aima-beyond-ai/pr-barge-in](https://github.com/aima-beyond-ai/pr-barge-in)
 - [@aima-beyond-ai/pr-user-facts](https://github.com/aima-beyond-ai/pr-user-facts)
+- [@aima-beyond-ai/pr-docker-mariadb](https://github.com/aima-beyond-ai/pr-docker-mariadb)
+- [@aima-beyond-ai/pr-aima-vllm](https://github.com/aima-beyond-ai/pr-aima-vllm)
+- [@aima-beyond-ai/pr-aima-qdrant](https://github.com/aima-beyond-ai/pr-aima-qdrant)
 
 ---
 
-# LLM
+# Development Dockers
 
-- [@aima-beyond-ai/llm-iphone-image-to-text](https://github.com/aima-beyond-ai/llm-iphone-image-to-text)
-- [@aima-beyond-ai/llm-android-image-to-text](https://github.com/aima-beyond-ai/llm-android-image-to-text)
+- [@aima-beyond-ai/docker-mariadb](https://github.com/aima-beyond-ai/docker-mariadb)
+- [@aima-beyond-ai/docker-redis](https://github.com/aima-beyond-ai/docker-redis)
 
 ---
 
-# APPS
+# Templates
 
-- [@aima-beyond-ai/unreal-iphone-aima](https://github.com/aima-beyond-ai/unreal-iphone-aima)
-- [@aima-beyond-ai/unreal-android-aima](https://github.com/aima-beyond-ai/unreal-android-aima)
-- [@aima-beyond-ai/unreal-iphone-diina](https://github.com/aima-beyond-ai/unreal-iphone-diina)
-- [@aima-beyond-ai/unreal-android-diina](https://github.com/aima-beyond-ai/unreal-android-diina)
-- [@aima-beyond-ai/unreal-iphone-residencia](https://github.com/aima-beyond-ai/unreal-iphone-residencia)
-- [@aima-beyond-ai/unreal-android-residencia](https://github.com/aima-beyond-ai/unreal-android-residencia)
-- [@aima-beyond-ai/unreal-box](https://github.com/aima-beyond-ai/unreal-box)
-- [@aima-beyond-ai/unreal-iphone-lib](https://github.com/aima-beyond-ai/unreal-iphone-lib)
-- [@aima-beyond-ai/unreal-android-lib](https://github.com/aima-beyond-ai/unreal-android-lib)
+- [@aima-beyond-ai/devops](https://github.com/aima-beyond-ai/devops)
+- [@aima-beyond-ai/devops-db](https://github.com/aima-beyond-ai/devops-db)
+- [@aima-beyond-ai/service](https://github.com/aima-beyond-ai/service)
+- [@aima-beyond-ai/service-db](https://github.com/aima-beyond-ai/service-db)
 
 ---
 
