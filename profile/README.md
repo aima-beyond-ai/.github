@@ -19,6 +19,7 @@
 - [@aima-beyond-ai/service-user-sentiment](https://github.com/aima-beyond-ai/service-user-sentiment)
 - [@aima-beyond-ai/service-user-multimedia](https://github.com/aima-beyond-ai/service-user-multimedia)
 - [@aima-beyond-ai/service-user-alerts](https://github.com/aima-beyond-ai/service-user-alerts)
+- [@aima-beyond-ai/service-garbage-collector](https://github.com/aima-beyond-ai/service-garbage-collector)
 - [@aima-beyond-ai/service-sentiment-analysis](https://github.com/aima-beyond-ai/service-sentiment-analysis)
 
 ---
