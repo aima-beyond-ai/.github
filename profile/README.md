@@ -137,6 +137,13 @@
 
 ---
 
+# Prototypes Gaming
+
+- [@aima-beyond-ai/metahuman](https://github.com/aima-beyond-ai/metahuman)
+- [@aima-beyond-ai/digitalhuman](https://github.com/aima-beyond-ai/digitalhuman)
+
+---
+
 # Development Dockers
 
 - [@aima-beyond-ai/docker-mariadb](https://github.com/aima-beyond-ai/docker-mariadb)
