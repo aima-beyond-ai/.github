@@ -129,11 +129,13 @@
 - [@aima-beyond-ai/pr-voice-biometrics](https://github.com/aima-beyond-ai/pr-voice-biometrics)
 - [@aima-beyond-ai/pr-audio-streaming](https://github.com/aima-beyond-ai/pr-audio-streaming)
 - [@aima-beyond-ai/pr-digital-human](https://github.com/aima-beyond-ai/pr-digital-human)
-- [@aima-beyond-ai/pr-barge-in-py](https://github.com/aima-beyond-ai/pr-barge-in-py)
 - [@aima-beyond-ai/pr-user-facts](https://github.com/aima-beyond-ai/pr-user-facts)
 - [@aima-beyond-ai/pr-docker-mariadb](https://github.com/aima-beyond-ai/pr-docker-mariadb)
 - [@aima-beyond-ai/pr-aima-vllm](https://github.com/aima-beyond-ai/pr-aima-vllm)
 - [@aima-beyond-ai/pr-aima-qdrant](https://github.com/aima-beyond-ai/pr-aima-qdrant)
+
+- [@aima-beyond-ai/pr-barge-in-py](https://github.com/aima-beyond-ai/pr-barge-in-py)
+- [@aima-beyond-ai/pr-barge-in-livekit](https://github.com/aima-beyond-ai/pr-barge-in-livekit)
 
 ---
 
