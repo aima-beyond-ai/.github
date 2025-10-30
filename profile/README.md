@@ -135,7 +135,7 @@
 - [@aima-beyond-ai/pr-docker-mariadb](https://github.com/aima-beyond-ai/pr-docker-mariadb)
 - [@aima-beyond-ai/pr-aima-vllm](https://github.com/aima-beyond-ai/pr-aima-vllm)
 - [@aima-beyond-ai/pr-aima-qdrant](https://github.com/aima-beyond-ai/pr-aima-qdrant)
-
+- [@aima-beyond-ai/pr-barge-in-android](https://github.com/aima-beyond-ai/pr-barge-in-android)
 - [@aima-beyond-ai/pr-barge-in-py](https://github.com/aima-beyond-ai/pr-barge-in-py)
 - [@aima-beyond-ai/pr-barge-in-livekit](https://github.com/aima-beyond-ai/pr-barge-in-livekit)
 
