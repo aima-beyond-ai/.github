@@ -17,6 +17,7 @@
 - [@aima-beyond-ai/service-user-facts](https://github.com/aima-beyond-ai/service-user-facts)
 - [@aima-beyond-ai/service-user-summaries](https://github.com/aima-beyond-ai/service-user-summaries)
 - [@aima-beyond-ai/service-user-geolocation](https://github.com/aima-beyond-ai/service-user-geolocation)
+- [@aima-beyond-ai/service-user-assessment](https://github.com/aima-beyond-ai/service-user-assessment)
 - [@aima-beyond-ai/service-user-sentiment](https://github.com/aima-beyond-ai/service-user-sentiment)
 - [@aima-beyond-ai/service-user-multimedia](https://github.com/aima-beyond-ai/service-user-multimedia)
 - [@aima-beyond-ai/service-user-alerts](https://github.com/aima-beyond-ai/service-user-alerts)
