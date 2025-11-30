@@ -140,7 +140,7 @@
 - [@aima-beyond-ai/pr-aima-qdrant](https://github.com/aima-beyond-ai/pr-aima-qdrant)
 - [@aima-beyond-ai/pr-barge-in-android](https://github.com/aima-beyond-ai/pr-barge-in-android)
 - [@aima-beyond-ai/pr-barge-in-py](https://github.com/aima-beyond-ai/pr-barge-in-py)
-- [@aima-beyond-ai/pr-barge-in-livekit](https://github.com/aima-beyond-ai/pr-barge-in-livekit)
+- [@aima-beyond-ai/pr-barge-python-livekit](https://github.com/aima-beyond-ai/pr-barge-python-livekit)
 - [@aima-beyond-ai/pr-service-user-geolocation](https://github.com/aima-beyond-ai/pr-service-user-geolocation)
 - [@aima-beyond-ai/pr-memoryjson](https://github.com/aima-beyond-ai/pr-memoryjson)
 
