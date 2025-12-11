@@ -157,6 +157,8 @@
 
 - [@aima-beyond-ai/docker-mariadb](https://github.com/aima-beyond-ai/docker-mariadb)
 - [@aima-beyond-ai/docker-redis](https://github.com/aima-beyond-ai/docker-redis)
+- [@aima-beyond-ai/docker-tolkien-frontend](https://github.com/aima-beyond-ai/docker-tolkien-frontend)
+- [@aima-beyond-ai/docker-tolkien-backend](https://github.com/aima-beyond-ai/docker-tolkien-backend)
 
 ---
 
