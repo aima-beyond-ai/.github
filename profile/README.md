@@ -168,6 +168,7 @@
 - [@aima-beyond-ai/devops-db](https://github.com/aima-beyond-ai/devops-db)
 - [@aima-beyond-ai/service](https://github.com/aima-beyond-ai/service)
 - [@aima-beyond-ai/service-db](https://github.com/aima-beyond-ai/service-db)
+- [@aima-beyond-ai/docker](https://github.com/aima-beyond-ai/docker)
 
 ---
 
