@@ -27,7 +27,7 @@
 
 ---
 
-# UNREAL Apps
+# UNREAL Apps __OLD
 
 - [@aima-beyond-ai/unreal-iphone-aima](https://github.com/aima-beyond-ai/unreal-iphone-aima)
 - [@aima-beyond-ai/unreal-android-aima](https://github.com/aima-beyond-ai/unreal-android-aima)
@@ -38,6 +38,17 @@
 - [@aima-beyond-ai/unreal-box](https://github.com/aima-beyond-ai/unreal-box)
 - [@aima-beyond-ai/unreal-iphone-lib](https://github.com/aima-beyond-ai/unreal-iphone-lib)
 - [@aima-beyond-ai/unreal-android-lib](https://github.com/aima-beyond-ai/unreal-android-lib)
+
+---
+
+# UNREAL Apps (Omar)
+
+- [@aima-beyond-ai/unreal-aima-iphone](https://github.com/aima-beyond-ai/unreal-aima-iphone)
+- [@aima-beyond-ai/unreal-aima-android](https://github.com/aima-beyond-ai/unreal-aima-android)
+- [@aima-beyond-ai/unreal-aima-ipad](https://github.com/aima-beyond-ai/unreal-aima-ipad)
+- [@aima-beyond-ai/unreal-aima-tablet](https://github.com/aima-beyond-ai/unreal-aima-tablet)
+- [@aima-beyond-ai/the-iphone-package](https://github.com/aima-beyond-ai/the-iphone-package)
+- [@aima-beyond-ai/the-android-package](https://github.com/aima-beyond-ai/the-iphone-package)
 
 ---
 
