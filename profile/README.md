@@ -1,5 +1,7 @@
 # Sora
 
+- [@aima-beyond-ai/sora-firebase-functions](https://github.com/aima-beyond-ai/sora-firebase-functions)
+
 ## Prototypes
 
 - [@aima-beyond-ai/pr-flutter-arr-library](https://github.com/aima-beyond-ai/pr-flutter-arr-library)
