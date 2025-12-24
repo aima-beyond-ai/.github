@@ -3,6 +3,9 @@
 ## Prototypes
 
 - [@aima-beyond-ai/pr-flutter-arr-library](https://github.com/aima-beyond-ai/pr-flutter-arr-library)
+- [@aima-beyond-ai/pr-flutter-arr-wakeup](https://github.com/aima-beyond-ai/pr-flutter-arr-wakeup)
+
+---
 
 # EC2 Servers
 
