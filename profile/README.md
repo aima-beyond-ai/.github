@@ -5,6 +5,7 @@
 - [@aima-beyond-ai/pr-flutter-arr-library](https://github.com/aima-beyond-ai/pr-flutter-arr-library)
 - [@aima-beyond-ai/pr-flutter-arr-wakeup](https://github.com/aima-beyond-ai/pr-flutter-arr-wakeup)
 - [@aima-beyond-ai/pr-flutter-arr-voice](https://github.com/aima-beyond-ai/pr-flutter-arr-voice)
+- [@aima-beyond-ai/pr-flutter-arr-auth](https://github.com/aima-beyond-ai/pr-flutter-arr-auth)
 - [@aima-beyond-ai/pr-aima-backend-onboarding](https://github.com/aima-beyond-ai/pr-aima-backend-onboarding)
 
 ## Tolkien
