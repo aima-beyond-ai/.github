@@ -12,6 +12,7 @@
 
 ## Tolkien
 
+- [@aima-beyond-ai/tolkien-firebase-app](https://github.com/aima-beyond-ai/tolkien-firebase-app)
 - [@aima-beyond-ai/tolkien](https://github.com/aima-beyond-ai/tolkien)
 
 # EC2 Servers
