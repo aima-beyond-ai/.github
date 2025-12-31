@@ -1,6 +1,7 @@
 # Sora
 
 - [@aima-beyond-ai/sora-flutter-core](https://github.com/aima-beyond-ai/sora-flutter-core)
+- [@aima-beyond-ai/sora-firebase-functions](https://github.com/aima-beyond-ai/sora-firebase-functions)
 
 ## Prototypes
 
@@ -8,6 +9,7 @@
 
 ## Tolkien
 
+- [@aima-beyond-ai/tolkien-firebase-app](https://github.com/aima-beyond-ai/tolkien-firebase-app)
 - [@aima-beyond-ai/tolkien](https://github.com/aima-beyond-ai/tolkien)
 
 # EC2 Servers
