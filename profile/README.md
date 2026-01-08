@@ -40,14 +40,9 @@
 
 ---
 
-# UNREAL Apps V.2
+# UNREAL Apps
 
-- [@aima-beyond-ai/unreal-aima-iphone](https://github.com/aima-beyond-ai/unreal-aima-iphone)
-- [@aima-beyond-ai/unreal-aima-android](https://github.com/aima-beyond-ai/unreal-aima-android)
-- [@aima-beyond-ai/unreal-aima-ipad](https://github.com/aima-beyond-ai/unreal-aima-ipad)
-- [@aima-beyond-ai/unreal-aima-tablet](https://github.com/aima-beyond-ai/unreal-aima-tablet)
-- [@aima-beyond-ai/the-iphone-package](https://github.com/aima-beyond-ai/the-iphone-package)
-- [@aima-beyond-ai/the-android-package](https://github.com/aima-beyond-ai/the-iphone-package)
+- [@aima-beyond-ai/unreal-aima-oneplus](https://github.com/aima-beyond-ai/unreal-aima-oneplus)
 
 ---
 
