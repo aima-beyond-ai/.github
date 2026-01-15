@@ -130,7 +130,8 @@
 - [@aima-beyond-ai/service-webcam](https://github.com/aima-beyond-ai/service-webcam)
 - [@aima-beyond-ai/llm-iphone-image-to-text](https://github.com/aima-beyond-ai/llm-iphone-image-to-text)
 - [@aima-beyond-ai/llm-android-image-to-text](https://github.com/aima-beyond-ai/llm-android-image-to-text)
-
+- [@aima-beyond-ai/qa-system](https://github.com/aima-beyond-ai/qa-system)
+  
 ---
 
 # Prototypes
