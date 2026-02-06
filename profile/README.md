@@ -10,7 +10,7 @@
 ## Prototypes
 
 - [@aima-beyond-ai/pr-aima-backend-onboarding](https://github.com/aima-beyond-ai/pr-aima-backend-onboarding)
-- [@aima-beyond-ai/pr-aima-android-android](https://github.com/aima-beyond-ai/pr-aima-android-android)
+- [@aima-beyond-ai/pr-aima-android-smartwach](https://github.com/aima-beyond-ai/pr-aima-android-smartwach)
 
 ## Tolkien
 
