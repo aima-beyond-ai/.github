@@ -50,6 +50,7 @@
 
 # UNREAL Apps
 
+- [@aima-beyond-ai/sora-unreal](https://github.com/aima-beyond-ai/sora-unreal)
 - [@aima-beyond-ai/unreal-aima-oneplus](https://github.com/aima-beyond-ai/unreal-aima-oneplus)
 
 ---
@@ -138,7 +139,8 @@
 - [@aima-beyond-ai/service-webcam](https://github.com/aima-beyond-ai/service-webcam)
 - [@aima-beyond-ai/llm-iphone-image-to-text](https://github.com/aima-beyond-ai/llm-iphone-image-to-text)
 - [@aima-beyond-ai/llm-android-image-to-text](https://github.com/aima-beyond-ai/llm-android-image-to-text)
-
+- [@aima-beyond-ai/qa-system](https://github.com/aima-beyond-ai/qa-system)
+  
 ---
 
 # Prototypes
@@ -156,6 +158,7 @@
 - [@aima-beyond-ai/pr-barge-python-livekit](https://github.com/aima-beyond-ai/pr-barge-python-livekit)
 - [@aima-beyond-ai/pr-service-user-geolocation](https://github.com/aima-beyond-ai/pr-service-user-geolocation)
 - [@aima-beyond-ai/pr-memoryjson](https://github.com/aima-beyond-ai/pr-memoryjson)
+- [@aima-beyond-ai/aima-layers-cli](https://github.com/aima-beyond-ai/aima-layers-cli)
 
 ---
 
@@ -207,6 +210,7 @@
 
 - [@aima-beyond-ai/tolkien-frontend](https://github.com/aima-beyond-ai/tolkien-frontend)
 - [@aima-beyond-ai/tolkien-backend](https://github.com/aima-beyond-ai/tolkien-backend)
+- [@aima-beyond-ai/tolkien](https://github.com/aima-beyond-ai/tolkien)
 
 ---
 
