@@ -5,6 +5,12 @@
 
 ---
 
+# Internal LLM
+
+- [@aima-beyond-ai/llm-wakeup-word](https://github.com/aima-beyond-ai/llm-wakeup-word.git)
+
+---
+
 ## Tolkien
 
 - [@aima-beyond-ai/tolkien-firebase-app](https://github.com/aima-beyond-ai/tolkien-firebase-app)
