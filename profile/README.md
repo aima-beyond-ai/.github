@@ -3,6 +3,7 @@
 - [@aima-beyond-ai/sora-unreal](https://github.com/aima-beyond-ai/sora-unreal.git)
 - [@aima-beyond-ai/sora-flutter-core](https://github.com/aima-beyond-ai/sora-flutter-core)
 - [@aima-beyond-ai/sora-flutter-vader](https://github.com/aima-beyond-ai/sora-flutter-vader)
+- [@aima-beyond-ai/unreal-android-daruma](https://github.com/aima-beyond-ai/unreal-android-daruma)
 
 ---
 
