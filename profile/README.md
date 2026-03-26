@@ -10,6 +10,7 @@
 # Internal LLM
 
 - [@aima-beyond-ai/llm-wakeup-word](https://github.com/aima-beyond-ai/llm-wakeup-word.git)
+- [@aima-beyond-ai/skywalker](https://github.com/aima-beyond-ai/skywalker.git)
 
 ---
 
