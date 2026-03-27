@@ -25,6 +25,7 @@
 - [@aima-beyond-ai/pr-aima-azure](https://github.com/aima-beyond-ai/pr-aima-azure)
 - [@aima-beyond-ai/pr-aima-backend-onboarding](https://github.com/aima-beyond-ai/pr-aima-backend-onboarding)
 - [@aima-beyond-ai/pr-aima-android-smartwach](https://github.com/aima-beyond-ai/pr-aima-android-smartwach)
+- [@aima-beyond-ai/pr-push-notifications](https://github.com/aima-beyond-ai/pr-push-notifications)
 
 ---
 
