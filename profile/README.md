@@ -169,6 +169,7 @@
 - [@aima-beyond-ai/pr-service-user-geolocation](https://github.com/aima-beyond-ai/pr-service-user-geolocation)
 - [@aima-beyond-ai/pr-memoryjson](https://github.com/aima-beyond-ai/pr-memoryjson)
 - [@aima-beyond-ai/aima-layers-cli](https://github.com/aima-beyond-ai/aima-layers-cli)
+- [@aima-beyond-ai/voicebot]https://github.com/aima-beyond-ai/voicebot
 
 ---
 
