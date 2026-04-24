@@ -17,6 +17,7 @@
 
 - [@aima-beyond-ai/tolkien-firebase-app](https://github.com/aima-beyond-ai/tolkien-firebase-app)
 - [@aima-beyond-ai/sora-firebase-functions](https://github.com/aima-beyond-ai/sora-firebase-functions)
+- [@aima-beyond-ai/jurojin-firebase-layers](https://github.com/aima-beyond-ai/jurojun-firebase-layers)
 
 ---
 
@@ -150,7 +151,7 @@
 - [@aima-beyond-ai/llm-iphone-image-to-text](https://github.com/aima-beyond-ai/llm-iphone-image-to-text)
 - [@aima-beyond-ai/llm-android-image-to-text](https://github.com/aima-beyond-ai/llm-android-image-to-text)
 - [@aima-beyond-ai/qa-system](https://github.com/aima-beyond-ai/qa-system)
-  
+
 ---
 
 # Prototypes
