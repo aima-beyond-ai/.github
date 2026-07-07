@@ -21,7 +21,6 @@
 
 - [@aima-beyond-ai/llm-wakeup-word](https://github.com/aima-beyond-ai/llm-wakeup-word.git)
 
----
 
 ## Prototypes
 
@@ -33,7 +32,7 @@
 ---
 ---
 
-# EC2 Servers (**LEGACY**)
+# EC2 Servers [**LEGACY**]
 
 - [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)
 - [@aima-beyond-ai/server-google](https://github.com/aima-beyond-ai/server-google)
