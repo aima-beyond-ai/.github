@@ -1,4 +1,4 @@
-# Sora
+# AiMA Fronted
 
 - [@aima-beyond-ai/sora-unreal](https://github.com/aima-beyond-ai/sora-unreal.git)
 - [@aima-beyond-ai/sora-unreal-daruma](https://github.com/aima-beyond-ai/sora-unreal-daruma.git)
@@ -13,11 +13,12 @@
 
 ---
 
-## Tolkien
+## AiMA Backend
 
 - [@aima-beyond-ai/tolkien-firebase-app](https://github.com/aima-beyond-ai/tolkien-firebase-app)
 - [@aima-beyond-ai/sora-firebase-functions](https://github.com/aima-beyond-ai/sora-firebase-functions)
 - [@aima-beyond-ai/jurojin-firebase-layers](https://github.com/aima-beyond-ai/jurojin-firebase-layers)
+- [@aima-beyond-ai/devops-aimachat-app](https://github.com/aima-beyond-ai/devops-aimachat-app)
 
 ---
 
@@ -29,8 +30,9 @@
 - [@aima-beyond-ai/pr-push-notifications](https://github.com/aima-beyond-ai/pr-push-notifications)
 
 ---
+---
 
-# EC2 Servers
+# EC2 Servers (**LEGACY**)
 
 - [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)
 - [@aima-beyond-ai/server-google](https://github.com/aima-beyond-ai/server-google)
