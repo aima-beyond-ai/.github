@@ -13,6 +13,7 @@
 - [@aima-beyond-ai/sora-firebase-functions](https://github.com/aima-beyond-ai/sora-firebase-functions)
 - [@aima-beyond-ai/jurojin-firebase-layers](https://github.com/aima-beyond-ai/jurojin-firebase-layers)
 - [@aima-beyond-ai/devops-aimachat-app](https://github.com/aima-beyond-ai/devops-aimachat-app)
+- [@aima-beyond-ai/aima-knowledge-mcp](https://github.com/aima-beyond-ai/aima-knowledge-mcp)
 
 ---
 ---
