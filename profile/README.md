@@ -12,8 +12,21 @@
 - [@aima-beyond-ai/tolkien-firebase-app](https://github.com/aima-beyond-ai/tolkien-firebase-app)
 - [@aima-beyond-ai/sora-firebase-functions](https://github.com/aima-beyond-ai/sora-firebase-functions)
 - [@aima-beyond-ai/jurojin-firebase-layers](https://github.com/aima-beyond-ai/jurojin-firebase-layers)
+
+---
+
+# AiMA Engineering
+
 - [@aima-beyond-ai/devops-aimachat-app](https://github.com/aima-beyond-ai/devops-aimachat-app)
+- [@aima-beyond-ai/qa-aimachat-app](https://github.com/aima-beyond-ai/qa-aimachat-app)
+- [@aima-beyond-ai/delivery-aimachat-app](https://github.com/aima-beyond-ai/delivery-aimachat-app)
+
+---
+
+# AiMA Plugins/MCP
+
 - [@aima-beyond-ai/aima-knowledge-mcp](https://github.com/aima-beyond-ai/aima-knowledge-mcp)
+- [@aima-beyond-ai/aima-reporting-mcp](https://github.com/aima-beyond-ai/aima-reporting-mcp)
 
 ---
 ---
