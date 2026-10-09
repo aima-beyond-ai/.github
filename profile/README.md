@@ -17,7 +17,6 @@
 - [@aima-beyond-ai/tolkien-firebase-app](https://github.com/aima-beyond-ai/tolkien-firebase-app)
 - [@aima-beyond-ai/sora-firebase-functions](https://github.com/aima-beyond-ai/sora-firebase-functions)
 - [@aima-beyond-ai/jurojin-firebase-layers](https://github.com/aima-beyond-ai/jurojin-firebase-layers)
-- [@aima-beyond-ai/aimacalls](https://github.com/aima-beyond-ai/aimacalls)
 
 ---
 
@@ -33,6 +32,7 @@
 - [@aima-beyond-ai/Roadmap](https://github.com/aima-beyond-ai/Roadmap)
 - [@aima-beyond-ai/auto-agent-pipelines](https://github.com/aima-beyond-ai/auto-agent-pipelines)
 - [@aima-beyond-ai/status-aima-chat](https://github.com/aima-beyond-ai/status-aima-chat)
+- [@aima-beyond-ai/aimacalls](https://github.com/aima-beyond-ai/aimacalls)
 
 ---
 
