@@ -1,5 +1,11 @@
 # AiMA Legacy
 
+# Flutter Apps
+
+- [@aima-beyond-ai/sora-flutter-vader](https://github.com/aima-beyond-ai/sora-flutter-vader)
+
+---
+
 # EC2 Servers
 
 - [@aima-beyond-ai/server-global](https://github.com/aima-beyond-ai/server-global)

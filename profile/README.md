@@ -5,7 +5,6 @@
 - [@aima-beyond-ai/handstracking](https://github.com/aima-beyond-ai/handstracking)
 - [@aima-beyond-ai/sora-flutter-app](https://github.com/aima-beyond-ai/sora-flutter-app)
 - [@aima-beyond-ai/sora-flutter-core](https://github.com/aima-beyond-ai/sora-flutter-core)
-- [@aima-beyond-ai/sora-flutter-vader](https://github.com/aima-beyond-ai/sora-flutter-vader)
 - [@aima-beyond-ai/sora-unreal](https://github.com/aima-beyond-ai/sora-unreal)
 - [@aima-beyond-ai/sora-unreal-daruma](https://github.com/aima-beyond-ai/sora-unreal-daruma)
 - [@aima-beyond-ai/sora-watch](https://github.com/aima-beyond-ai/sora-watch)
