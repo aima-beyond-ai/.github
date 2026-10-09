@@ -44,21 +44,6 @@
 - [@aima-beyond-ai/pace](https://github.com/aima-beyond-ai/pace)
 
 ---
----
-
-## Internal LLM
-
-- [@aima-beyond-ai/llm-wakeup-word](https://github.com/aima-beyond-ai/llm-wakeup-word)
-
-
-## Prototypes
-
-- [@aima-beyond-ai/pr-aima-azure](https://github.com/aima-beyond-ai/pr-aima-azure)
-- [@aima-beyond-ai/pr-aima-backend-onboarding](https://github.com/aima-beyond-ai/pr-aima-backend-onboarding)
-- [@aima-beyond-ai/pr-aima-android-smartwach](https://github.com/aima-beyond-ai/pr-aima-android-smartwach)
-- [@aima-beyond-ai/pr-push-notifications](https://github.com/aima-beyond-ai/pr-push-notifications)
-
----
 
 # I+D
 
@@ -72,6 +57,11 @@
 - [@aima-beyond-ai/asr](https://github.com/aima-beyond-ai/asr)
 - [@aima-beyond-ai/hola-aima](https://github.com/aima-beyond-ai/hola-aima)
 - [@aima-beyond-ai/Elevenvisemes](https://github.com/aima-beyond-ai/Elevenvisemes)
+- [@aima-beyond-ai/llm-wakeup-word](https://github.com/aima-beyond-ai/llm-wakeup-word)
+- [@aima-beyond-ai/pr-aima-azure](https://github.com/aima-beyond-ai/pr-aima-azure)
+- [@aima-beyond-ai/pr-aima-backend-onboarding](https://github.com/aima-beyond-ai/pr-aima-backend-onboarding)
+- [@aima-beyond-ai/pr-aima-android-smartwach](https://github.com/aima-beyond-ai/pr-aima-android-smartwach)
+- [@aima-beyond-ai/pr-push-notifications](https://github.com/aima-beyond-ai/pr-push-notifications)
 
 ---
 
